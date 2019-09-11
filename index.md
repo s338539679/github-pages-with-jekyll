@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my webpage!
 
-I'm glad you are here. I plan to talk about ...
+You're here to read about my progress in class.
